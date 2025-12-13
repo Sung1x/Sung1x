@@ -19,7 +19,7 @@ un chico apasionado con la ciberseguridad y informatica en general xD
 
   <!-- 🧩 Tecnologías principales -->
   <h4>⚙️ Tecnologías principales</h4>
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,bash,wordpress,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías principales" />
   <br/><br/>
 
   <!-- 🧱 Frameworks, librerías y herramientas secundarias -->
