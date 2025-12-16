@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mí
 
-un chico apasionado con la ciberseguridad y hackin etico y full stack por hobby xD
+un chico apasionado con la ciberseguridad y hacking etico y full stack por hobby xD
 
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
