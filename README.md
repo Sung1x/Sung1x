@@ -19,7 +19,7 @@ un chico apasionado con la ciberseguridad y hacking etico y full stack por hobby
 
   <!-- 🧩 Tecnologías principales -->
   <h4>⚙️ Tecnologías principales</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,github,vscode,kali,Windows" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,github,vscode,kali," alt="Tecnologías principales" />
   <br/><br/>
 </div>
 
