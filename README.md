@@ -17,7 +17,7 @@
 <div align="center">
 
   <!-- 🧩 Tecnologías principales -->
-  <h4>⚙️ Tecnologías principales</h4>
+  <h4>⚙️𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠í𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥𝐞𝐬</h4>
   <img src="https://skillicons.dev/icons?i=python,js,linux,bash,github,vscode,kali," alt="Tecnologías principales" />
   <br/><br/>
 </div>
