@@ -19,5 +19,5 @@
 
   <!-- 🧩 Tecnologías principales -->
   <h4>⚙️ Tecnologías principales</h4>
-  <img src="https://skillicons.dev/icons?i=python,linux,neovim,bash,cpp,github,vscode,mysql,kali" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=python,neovim,linux,bash,cpp,github,vscode,mysql,kali" alt="Tecnologías principales" />
   <br/><br/>
