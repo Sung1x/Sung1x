@@ -21,3 +21,4 @@
   <h4>⚙️ Tecnologías principales</h4>
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,bash,neovim,vscode" alt="Tecnologías principales" />
   <br/><br/>
+
