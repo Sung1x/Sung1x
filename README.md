@@ -7,7 +7,8 @@
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 ### 🧠 𝐒𝐨𝐛𝐫𝐞 𝐦í
-𝐄𝐬𝐭𝐮𝐝𝐢𝐚𝐧𝐭𝐞 𝐲 𝐞𝐧𝐭𝐮𝐬𝐢𝐚𝐬𝐭𝐚 𝐝𝐞 𝐥𝐚 𝐜𝐢𝐛𝐞𝐫𝐬𝐞𝐠𝐮𝐫𝐢𝐝𝐚𝐝, 𝐜𝐨𝐧 𝐞𝐧𝐟𝐨𝐪𝐮𝐞 𝐞𝐧 𝐎𝐒𝐈𝐍𝐓, 𝐢𝐧𝐠𝐞𝐧𝐢𝐞𝐫í𝐚 𝐢𝐧𝐯𝐞𝐫𝐬𝐚, 𝐃𝐅𝐈𝐑 𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜𝐢ó𝐧. 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐚𝐝𝐨 𝐞𝐧 𝐞𝐥 𝐚𝐧á𝐥𝐢𝐬𝐢𝐬 𝐝𝐞 𝐬𝐢𝐬𝐭𝐞𝐦𝐚𝐬, 𝐫𝐞𝐜𝐨𝐥𝐞𝐜𝐜𝐢ó𝐧 𝐲 𝐜𝐨𝐫𝐫𝐞𝐥𝐚𝐜𝐢ó𝐧 𝐝𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢ó𝐧, 𝐚𝐧á𝐥𝐢𝐬𝐢𝐬 𝐝𝐞 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐲 𝐫𝐞𝐬𝐩𝐮𝐞𝐬𝐭𝐚 𝐚 𝐢𝐧𝐜𝐢𝐝𝐞𝐧𝐭𝐞𝐬, 𝐜𝐨𝐧 𝐮𝐧𝐚 𝐦𝐞𝐧𝐭𝐚𝐥𝐢𝐝𝐚𝐝 𝐨𝐫𝐢𝐞𝐧𝐭𝐚𝐝𝐚 𝐚𝐥 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐣𝐞 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨 𝐲 𝐚 𝐥𝐚 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐜𝐢ó𝐧 𝐭é𝐜𝐧𝐢𝐜𝐚.
+Estudiante de forensic malware | Malware Analysis | Reverse Engineering | DFIR
+Aprendizaje continuo e investigación técnica.
 
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
